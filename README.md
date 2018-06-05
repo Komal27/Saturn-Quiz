@@ -1,6 +1,6 @@
 # MyQuiz
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+A fun Quiz built with AngularJS with custom sharing links that will allow users to challenge friends via Email and Twitter.
 
 ## Development server
 
